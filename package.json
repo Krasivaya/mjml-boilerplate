@@ -1,0 +1,13 @@
+{
+  "name": "mjml-boilerplate",
+  "version": "1.0.0",
+  "description": "MJML email boilerplate",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.10.2"
+  }
+}
